@@ -1,4 +1,3 @@
-# TOKEN = "OTcxMzg3MzEzMTU2NDE5NTg0.YnJw7g.cVfSgeVH1LiCHFtLxu7Vdi4Smzo"
 import discord
 import datetime
 import Weather
